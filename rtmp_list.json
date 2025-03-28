@@ -1,6 +1,26 @@
 [
     {
-        "roomid": "1287956816",
-        "liveurl": "rtmp://0l2fuewrhevmdrmw.0csp7bqtxeaj.sourcelandchina.com/live/1287956816?token=b88872c49ddfff191d80e22a31ab49a7&t=1743217567"
+        "roomid": "40666407",
+        "liveurl": "rtmp://9heaea5btl5o4vyq.7kv5kqq7k77g.hebeisaixin.com/live/40666407?token=4d0f679b2ae8a0fd0ee68aaeb6413838&t=1743220035"
+    },
+    {
+        "roomid": "2001614135",
+        "liveurl": "rtmp://0ep95qhl6jfibwq1.7kv5kqq7k77g.hebeisaixin.com/live/2001614135?token=f1ce4d31e0b27c6fd9e4f46f5dbf2afc&t=1743220037"
+    },
+    {
+        "roomid": "10003764",
+        "liveurl": "rtmp://f3jobzdrifw7bzaw.7kv5kqq7k77g.hebeisaixin.com/live/10003764?token=fbb6d82bb96e4d8ce5e1769a66ea889b&t=1743220038"
+    },
+    {
+        "roomid": "87839418",
+        "liveurl": "rtmp://fovcrguruvg1qfn3.7kv5kqq7k77g.hebeisaixin.com/live/87839418?token=8ad02f4c347b69d8282bde4e1be0a258&t=1743220040"
+    },
+    {
+        "roomid": "190162151",
+        "liveurl": "rtmp://mt4i0zccy0xtb76i.7kv5kqq7k77g.hebeisaixin.com/live/190162151?token=f3b8b3618fccae9fa5953b31d5af89db&t=1743220042"
+    },
+    {
+        "roomid": "27264713",
+        "liveurl": "rtmp://9pqqkxk0rdjs7fvz.0csp7bqtxeaj.sourcelandchina.com/live/27264713?token=15ca977bb8ffd62ba3026f07530c242d&t=1743220043"
     }
 ]
