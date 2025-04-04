@@ -1,0 +1,35 @@
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12340?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#预计可用：44.00 GB
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12340?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#当前等级：普通
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12340?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#香港HK
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@v6.9n8934f324f342fg34g43.93451forest.cn:12340?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#香港HK V6
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12341?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#日本JP
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12342?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#台湾TW
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12343?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#新加坡SG
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12344?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#韩国KR
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12345?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#澳门MO
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12346?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#越南VN
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12347?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#马来西亚MY
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12348?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#美国US
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12349?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#英国UK
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12350?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#泰国TH
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12351?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#印度IN
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12352?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#土耳其TR
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12353?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#阿根廷AR
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12355?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#巴西BR
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@oss-mr-aliyun-oss.93451forest.cn:12354?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#尼日利亚NG
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12340?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#香港HK IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12341?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#日本JP IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12342?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#台湾TW IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12343?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#新加坡SG IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12344?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#韩国KR IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12345?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#澳门MO IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12346?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#越南VN IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12347?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#马来西亚MY IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12348?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#美国US IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12349?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#英国UK IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12350?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#泰国TH IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12351?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#印度IN IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12352?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#土耳其TR IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12353?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#阿根廷AR IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12355?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#巴西BR IEPL
+trojan://31b18a3b-d6e6-4260-9fb9-869c35f7db2b@m.ctrip-oss-fc-Alibaba.52forest.com:12354?allowInsecure=1&peer=m.ctrip.com&sni=m.ctrip.com&type=tcp#尼日利亚NG IEPL
